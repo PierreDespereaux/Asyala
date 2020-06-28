@@ -1,3 +1,0 @@
-Fixed ground mesh for Ancient Falmer Robes/Curate Robes
-
-More saturated robe textures, shoes textures, gloves textures.
