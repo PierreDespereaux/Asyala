@@ -436,7 +436,7 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
-### Courties
+### Courtesies
 
 While the license above allows open distribution, the following courtesies are requested... 
 
