@@ -436,6 +436,8 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+=======================================================================
+
 Addendum
 
 While the license above allows open distribution, the following courtesies are requested... 
