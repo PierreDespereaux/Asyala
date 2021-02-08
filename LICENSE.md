@@ -442,4 +442,4 @@ Addendum
 
 While the license above allows open distribution, the following courtesies are requested.
 
-a. Any assets related to the character of Asya'la are requested to not be used in any NSFW mods/files.
+a. Any assets related to the character of Asya'la are requested not to be used in any NSFW mods/files.
