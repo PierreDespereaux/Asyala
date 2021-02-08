@@ -170,7 +170,7 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 
 ### Courtesies
 
-While the license above allows open distribution and modification, the following courtesies are requested... 
+While the license above allows open distribution, the following courtesies are requested... 
 
 1. Please do not use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms.
 
