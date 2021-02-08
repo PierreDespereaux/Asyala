@@ -442,6 +442,6 @@ Addendum
 
 While the license above allows open distribution, the following courtesies are requested... 
 
-- Please do not use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms.
+a. Please do not use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms.
 
-- Any assets related to the character of Asya'la are requested to not be used in any NSFW mods/files.
+b. Any assets related to the character of Asya'la are requested to not be used in any NSFW mods/files.
