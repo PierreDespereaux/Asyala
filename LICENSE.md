@@ -440,6 +440,6 @@ Creative Commons may be contacted at creativecommons.org.
 
 Addendum
 
-While the license above allows open distribution, the following courtesies are requested.
+While the license above allows open distribution, the following courtesies are requested:
 
 a. Any assets related to the character of Asya'la are requested not to be used in any NSFW mods/files.
