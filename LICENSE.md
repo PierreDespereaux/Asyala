@@ -26,5 +26,5 @@ Addendum
 
 While the license above allows open distribution and modification, the following courtesies are requested:
 
-- If you use assets from this software, please release your own software with the same or similar license if possible.
-- Any assets related to the character of Asya'la are requested not to be used in any NSFW content.
+- If you use assets from this software in your own software, please release it with the same or similar open-source license if possible.
+- Please do not distribute assets from this software commercially without permission from me first.
