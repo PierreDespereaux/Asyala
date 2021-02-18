@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Addendum
+
+While the license above allows open distribution and modification, the following courtesies are requested:
+
+- If you use assets from this software, please release your own software with the same or similar license if possible.
+- Any assets related to the character of Asya'la are requested not to be used in any NSFW content.
