@@ -32,7 +32,7 @@ Asya'la: Do you have a minute?
 
         Player: Did you have any friends?
         
-          Asya'la: When I was a cub the other kids didn't seem to fond of me. I was a cat, many of them had never seen one of my kind before. I did have one good friend though. Her name was Sif, she saw that past my fur I was just like any of the other kids... I miss her dearly.
+          Asya'la: When I was a cub the other children didn't seem to fond of me. I was a cat, many of them had never seen one of my kind before. I did have one good friend though. Her name was Sif, she saw that past my fur I was just like any of the other children... I miss her dearly.
           
             Player: Did something happen to Sif?
 
