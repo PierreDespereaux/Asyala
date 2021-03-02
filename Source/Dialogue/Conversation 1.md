@@ -15,6 +15,9 @@ Asya'la: Do you have a minute?
       
       Player: Sure, as long as I'm getting paid.
       
+        Asya'la: Oh... yeah. Well let's be off then.
+        (End conversation.)
+      
       Player: You must have had an interesting upbringing.
       
         Asya'la: You could say that. 
