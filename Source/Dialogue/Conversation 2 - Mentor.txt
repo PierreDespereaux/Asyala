@@ -6,4 +6,22 @@ Asya'la: Do you have a minute?
         
     Player: Sure, what do you need?
     
-        Asya'la: 
+        Asya'la: Someting has been bothering me for a while, even before I met you. Have I told you about my mentor?
+        
+                Player: Remind me.
+                
+                        Asya'la: Her name was Jah'alaka, she was strict and unforgiving but is also a big reason that I am who I am today. I have a lot to thank her for. I'll be honest, I didn't like her at first but when she started discussing Khajiiti culture I gote entralled. It opened my eyes as to who I am. My favorite lessons covered the old Khajiiti tales, she had a way of spinning those stories into breathtaking tapestries of song. I love it. I hope to see her again some day. It's been so long since we last talked.
+                        (Continue to "Thinking about her a lot lately.)
+                        
+                Player: Yes, what about her?
+                
+                        Asya'la: I've just been thinking about her a lot lately. Being here in the Nordic homeland has had me thinking about myself. I'm a walking contridiction, a Nordic Khajiit? It's ridiculous.
+                        
+                                Player: It's not ridiculous, you are who are you.
+                                
+                                       Asya'la: Who am I? Am I a Nord or am I a Khajiit? My parents thought that bringing in a teacher would help me cope with who I was, but it has just left me more confused that ever. I've always considered myself a Nord, but I cannot deny that I am covered in fur and have pointed ears.
+                                
+                                Player: Yes, you are pretty odd.
+                                
+                                        Asya'la: Exactly.
+                                        (Continue to "Who am I?")
