@@ -58,6 +58,7 @@ Asya'la: Do you have a minute?
                                                                         (Continue to "I need to think about this myself.")
                                                                         
                                                                 Player: When the ship carrying you crashed on Kottheim you were robbed a Khajiiti life, now you have the chance to live the life you were supposed to have.
+                                                                
                                                                         Asya'la: My life wasn't ruined, I love my parents very much and Kottheim will always be my home.
                                                                         (Continue to "I need to think about this myself.")
                                                 
