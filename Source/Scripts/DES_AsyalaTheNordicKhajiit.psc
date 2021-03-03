@@ -31,4 +31,4 @@ int property AsyalaWantsBlackBriar auto conditional ;Tracks if Asya'la wants Bla
 
 int property AsyalaWantsToLearnTaagra auto conditional ;Tracks if Asya'la wants to learn Ta'agra.
 
-int property AsyalaWantsAsylumBall auto conditional ;Tracks if Asya'la wants to learn Ta'agra.
+int property AsyalaWantsAsylumBall auto conditional ;Tracks if Asya'la wants a copy of the Asylum Ball
