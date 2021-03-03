@@ -1,1 +1,9 @@
+Asya'la: Do you have a minute?
 
+    Player: Not right now.
+    
+        Asya'la: Oh... okay, another time then.
+        
+    Player: Sure, what do you need?
+    
+        Asya'la: 
