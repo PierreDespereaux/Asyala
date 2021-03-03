@@ -35,7 +35,7 @@ Asya'la: Do you have a minute?
                                                 
                                                         Asya'la: Perhaps... but I'm still unlike any other Nord. No Nord is effected by the Moons like I am. I worship Ja-kha'jay because they have an undeniable impact on me and all Khajiit. Even simple things like my fur, a normal Nord don't have to worry about mussing their fur everytime it rains.
                                                 
-                                                                Player: I don't have the answers, but I know how I see you.
+                                                                Player: Sorry Asya'la, I don't have the answers.
                                                                 
                                                                         Asya'la: I guess I don't expect you too.
                                                                         (Continue to "I need to think about this myself.")
@@ -52,7 +52,7 @@ Asya'la: Do you have a minute?
                                                 
                                                         Asya'la: I am, but I can't just turn my back on everything I've ever known. I may be a Khajiit by birth, but I don't think I'll ever stop being a Nord at heart. I'm just so unlike any other Nord...
                                                         
-                                                                Player: I don't have the answers, but I know how I see you.
+                                                                Player: Sorry Asya'la, I don't have the answers.
                                                                 
                                                                         Asya'la: I guess I don't expect you too.
                                                                         (Continue to "I need to think about this myself.")
@@ -66,7 +66,7 @@ Asya'la: Do you have a minute?
                                                 
                                                         Asya'la: I don't know how to be both. How can I reconcile these two sides of me?
                                                         
-                                                                Player: I don't have the answers, but I know how I see you.
+                                                                Player: Sorry Asya'la, I don't have the answers.
                                                                 
                                                                         Asya'la: I guess I don't expect you too.
                                                                         (Continue to "I need to think about this myself.")
