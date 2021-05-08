@@ -15,7 +15,7 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 -   A friendly goat.
  
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Credits.png)\
-**Special Thanks**
+__**Special Thanks**__
 
 **VictorF** for helping me with scripting and implementation every step of the way
 
@@ -27,7 +27,7 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 
 **j_lewy** for Todd
 
-**Assets Used**
+__**Assets Used**__
 
 **Insanitypays** and **QwibQwibMods** for Asya'la Armor
 
@@ -39,7 +39,7 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 
 **NordWarUA** for Asya'la's Iron Sword
 
-**Voice Cast**
+__**Voice Cast**__
 
 **Cora Despereaux** as Asya'la
 
