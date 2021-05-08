@@ -14,8 +14,8 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 -   A unique look with gear from Kottheim.
 -   A friendly goat.
  
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Credits.png)\
-___Special Thanks___
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Credits.png)
+### Special Thanks
 
 **VictorF** for helping me with scripting and implementation every step of the way
 
@@ -27,7 +27,7 @@ ___Special Thanks___
 
 **j_lewy** for Todd
 
-___Assets Used___
+### Assets Used
 
 **Insanitypays** and **QwibQwibMods** for Asya'la Armor
 
@@ -39,7 +39,7 @@ ___Assets Used___
 
 **NordWarUA** for Asya'la's Iron Sword
 
-___Voice Cast___
+### Voice Cast
 
 **Cora Despereaux** as Asya'la
 
