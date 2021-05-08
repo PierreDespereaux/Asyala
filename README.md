@@ -23,7 +23,7 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 
 **Catir** for constant recommendations and helpful criticism
 
-**Joseph Russell** to giving me helpful advice for creating a follower mod
+**Joseph Russell** for giving me helpful advice for creating a follower mod
 
 **j_lewy** for Todd
 
