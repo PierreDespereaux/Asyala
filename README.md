@@ -1,5 +1,42 @@
-# Asya'la the Nordic Khajiit
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Asyala%20Banner.png)\
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Xbox%20Tiny.png) Also avalible on Xbox One.
 
-Asya'la is a Khajiit raised by Nord parents on Kottheim since she was a cub. This has resulted in quite an interesting blend of Nordic culture and Khajiiti heritage. You will serve as Asya'la's guide for the majority of the mod but once you earn Asya'la's trust you will discover her purpose for traveling to Skyrim: she wants to establish a permeant temple to the Riddle'Thar so she can better serve them as a faithful worshipper. The problem is that in order to establish such a temple she requires two Moon Pearls which are quite hard to find in Skyrim. 
+Asya'la is a Khajiit raised by Nord parents and mentored by a learned Khajiiti scholar. This has resulted quite the unique mixture of Nordic and Khajiiti cultures. Though close-minded Nords may not think much of Khajiit, Asya'la is more a Nord than many of them. Brought up on the isolated island of Kottheim, Asya'la is much less Imperialzied than many Mainlanders, she follows the Old Nordic Pantheon and lived a life much more akin to the Nords of old. However, she also respects her people's traditions and worships many of the Khajiiti gods.
 
-This will eventually lead Asya'la and the player to an ancient Falmer ruin that was one the Snow Elf monastery of Gandra. The place is in shambles and nearly impossible to navigate but they will find a very interesting discovery: an old Dragon Priest mask that will allow them to shift between the past and present at will. In the present there the ruin is near deserted besides a few corrupted Falmer but in the past you will see Gandra as it was at it's height. The time you shift will be during the Gandra's fall: Atmorans are storming the place and the Falmer are desperately trying to defend it. In the confusion both Atmoran and Falmer will be hostile to the player.
+This has resulted in Asya'la not really sure where she is going or who she is, she has begun a journey of self discovery. After a boat ride from Kottheim, Asya'la waits in Windhelm for a guide to help her across the new and exciting province. Who she will be at the end will be left to be seen.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)
+
+-   A new fully voiced follower with a unique backstory that will be unveiled the longer you travel.
+-   Hundreds of lines of conditional dialogue that is aware of the world around her.
+-   A Trust system that will have Asya'la slowly learn to trust the Player.
+-   Reactive dialogue options that will remember things that you have done or said.
+-   A unique look with gear from Kottheim.
+-   A friendly goat.
+ 
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Credits.png)\
+**Special Thanks**
+
+**VictorF** for helping me with scripting and implementation every step of the way\
+**Klamactus **for contributing a great deal of asset edits\
+**Catir **for constant recommendations and helpful criticism\
+**Joseph Russell** to giving me helpful advice for creating a follower mod\
+**j_lewy** for Todd
+
+**Assets Used**
+
+**Insanitypays **and **QwibQwibMods **for Asya'la Armor\
+**DanielCoffey **for *The Asylum Ball *and other book cover assets\
+**nman368 **for Hilda's Pack**\
+uni_SL** for the Amulet of Ja-Kha'jay\
+**NordWarUA **for Asya'la's Iron Sword
+
+**Voice Cast**
+
+**Cora Despereaux** as Asya'la
+
+*Many credits for this mod contains story spoilers. You can view a full list of credits [here](https://www.nexusmods.com/skyrimspecialedition/articles/2829).*
+
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/My%20Mods.png)
+
+[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
