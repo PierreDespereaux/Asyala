@@ -37,6 +37,8 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 
 *Many credits for this mod contains story spoilers. You can view a full list of credits [here](https://www.nexusmods.com/skyrimspecialedition/articles/2829).*
 
+Due to the large number of credited authors on this mod it is impossible to fairly distribute DP among everyone. Therefore 100% of this mod's DP will be put toward donations to [Child's Play](https://www.nexusmods.com/modrewards#/store/item/36).
+
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/My%20Mods.png)
 
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
