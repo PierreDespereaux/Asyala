@@ -1,5 +1,7 @@
-The Tears of the Falmer: Massacre at Gandra
-By Amadeo Veccini, Imperial Geograohical Society
+The Tears of the Falmer/
+Massacre at Gandra
+
+by Amadeo Veccini, Imperial Geograohical Society
 
 The Snow Elven ruin of Gandra was once a  major monastery devoted to the god Auri-El in the late Merethic Era, located in what is now the Rift, Province of Skyrim. Home to monk-prelates and knight-paladins, the shrine was one of the last known bastions of the Snow Elves on the Skyrim mainland.
 
