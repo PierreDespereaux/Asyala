@@ -9,8 +9,10 @@ There is some speculation that the knight-paladins stationed at Gandra were char
 
 At some point during the early Dragon War era, the Snow Elf purges ordered by the cult’s wartime leaders came to Gandra. Kriin, a high priest of the Council, marched on the monastery and laid siege, with the drawn-out standoff lasting for some time as the elves’ resources slowly dwindled.
 
-Determining that the defense of Gandra was a lost cause, Arch-Curate Althadan Vyrthur ordered his forces back to the central Chantry of Auri-El to the west. With Chantry forces in retreat, the few remaining monks and knight-paladins who elected to remain in defense of Gandra were unable to match the manpower of Kriin’s onslaught and were massacred by Dragon Cult warriors. Kriin’s apprentice and eventual successor as councilor, Rahgot, was dispatched back to Bromjunaar to inform the High Council of Kriin’s successful assault.
+Despite all odds the siege was broken and the Dragon Cult's army left in retreat. Kriin’s apprentice and eventual successor as councilor, Rahgot, returned to Bromjunaar to inform the High Council that Kriin had been killed in the assault and elves had triumphed. However, at the same time Gandra's own forces returned to the central Chantry of Auri-El with a much different report, their leader, Curate Laianstil, had fallen and they had been forced into a retreat with the Atmorans winning the day.
 
-Following the massacre, the history of Gandra becomes less clear. Some sources indicate it was razed by the cult, while others say it was annexed as a military installation for the ongoing Dragon War. Whatever the case, the ruins have fallen into disrepair in the modern day.
+Scholars have puzzled over these events for several millennia in an attempt to make sense out of how both leaders fell and both armors reported back in defeat.
+
+Following the mysterious turn of events, the Dragon Cult returned to the ruins to retrieve Kriin's body. The monastery was turned into a burial chamber for Kriin to commemorate the place where he fell in battle.
 
 My recent expedition to the Rift has revealed ruins similar to contemporary descriptions of Gandra high in the mountains of the Rift, entirely inaccessible by traditional means. However, a Nordic ruin has been discovered at the base of the mountain, seemingly constructed around a Falmer wayshrine likely used as the primary entrance to the Gandra complex. As of yet, however, no method of opening the wayshrine has been determined, and so the ruins of Gandra remain a purely theoretical topic.
