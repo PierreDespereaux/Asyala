@@ -13,6 +13,6 @@ Despite all odds the siege was broken and the Dragon Cult's army left in retreat
 
 Scholars have puzzled over these events for several millennia in an attempt to make sense out of how both leaders fell and both armors reported back in defeat.
 
-Following the mysterious turn of events, the Dragon Cult returned to the ruins to retrieve Kriin's body. The monastery was turned into a burial chamber for Kriin to commemorate the place where he fell in battle.
+Following the mysterious turn of events, the Dragon Cult returned to Gandra to retrieve Kriin's body. The monastery was turned into the burial chamber Fjerdhim for Kriin and his forces to commemorate the place where they fell in battle.
 
 My recent expedition to the Rift has revealed ruins similar to contemporary descriptions of Gandra high in the mountains of the Rift, entirely inaccessible by traditional means. However, a Nordic ruin has been discovered at the base of the mountain, seemingly constructed around a Falmer wayshrine likely used as the primary entrance to the Gandra complex. As of yet, however, no method of opening the wayshrine has been determined, and so the ruins of Gandra remain a purely theoretical topic.
