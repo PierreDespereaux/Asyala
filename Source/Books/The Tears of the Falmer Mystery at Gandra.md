@@ -11,7 +11,7 @@ At some point during the early Dragon War era, the Snow Elf purges ordered by th
 
 Determining that the defense of Gandra was a lost cause, Arch-Curate Althadan Vyrthur ordered his forces back to the central Chantry of Auri-El to the west. With Chantry forces in retreat, the few remaining monks and knight-paladins who elected to remain in defense of Gandra were unable to match the manpower of Kriin’s onslaught and were massacred by Dragon Cult warriors. 
 
-Desite the victory, Kriin was killed during the assault. As Dragon Cult forces began securing the monastery Kriin’s apprentice and eventual successor as councilor, Rahgot, was dispatched back to Bromjunaar to inform the High Council of his death.
+Desite the victory, Kriin was killed during the assault. As Dragon Cult forces began to secure the monastery Kriin’s apprentice and eventual successor as councilor, Rahgot, was dispatched back to Bromjunaar to inform the High Council of his death.
 
 Following the massacre, Gandra was turned into the burial chamber Fjerdhim for Kriin and his forces to commemorate the place where they fell in battle.
 
