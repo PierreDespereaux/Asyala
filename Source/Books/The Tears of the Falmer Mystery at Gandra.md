@@ -1,5 +1,5 @@
 The Tears of the Falmer\
-Mystery at Gandra
+Massacre at Gandra
 
 by Amadeo Veccini, Imperial Geograohical Society
 
@@ -9,10 +9,10 @@ There is some speculation that the knight-paladins stationed at Gandra were char
 
 At some point during the early Dragon War era, the Snow Elf purges ordered by the cult’s wartime leaders came to Gandra. Kriin, a high priest of the Council, marched on the monastery and laid siege, with the drawn-out standoff lasting for some time as the elves’ resources slowly dwindled.
 
-Despite all odds the siege was broken and the Dragon Cult's army left in retreat. Kriin’s apprentice and eventual successor as councilor, Rahgot, returned to Bromjunaar to inform the High Council that Kriin had been killed in the assault and elves had triumphed. However, at the same time Gandra's own forces returned to the central Chantry of Auri-El with a much different report, their leader, Curate Laianstil, had fallen and they had been forced into a retreat with the Atmorans winning the day.
+Determining that the defense of Gandra was a lost cause, Arch-Curate Althadan Vyrthur ordered his forces back to the central Chantry of Auri-El to the west. With Chantry forces in retreat, the few remaining monks and knight-paladins who elected to remain in defense of Gandra were unable to match the manpower of Kriin’s onslaught and were massacred by Dragon Cult warriors. 
 
-Scholars have puzzled over these events for several millennia in an attempt to make sense out of how both leaders fell and both armors reported back in defeat.
+Desite the victory, Kriin was killed during the assault. As Dragon Cult forces began securing the monastery Kriin’s apprentice and eventual successor as councilor, Rahgot, was dispatched back to Bromjunaar to inform the High Council of his death.
 
-Following the mysterious turn of events, the Dragon Cult returned to Gandra to retrieve Kriin's body. The monastery was turned into the burial chamber Fjerdhim for Kriin and his forces to commemorate the place where they fell in battle.
+Following the massacre, Gandra was turned into the burial chamber Fjerdhim for Kriin and his forces to commemorate the place where they fell in battle.
 
 My recent expedition to the Rift has revealed ruins similar to contemporary descriptions of Gandra high in the mountains of the Rift, entirely inaccessible by traditional means. However, a Nordic ruin has been discovered at the base of the mountain, seemingly constructed around a Falmer wayshrine likely used as the primary entrance to the Gandra complex. As of yet, however, no method of opening the wayshrine has been determined, and so the ruins of Gandra remain a purely theoretical topic.
