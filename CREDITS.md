@@ -48,7 +48,7 @@ Yag1z for the Ancient Tree.
 
 ### Voice Cast
 
-Cora Despereaux as Asya'la.
+CoraBoraBora as Asya'la.
 
 Severage as Kriin.
 
