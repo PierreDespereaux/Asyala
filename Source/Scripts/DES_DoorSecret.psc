@@ -23,7 +23,7 @@ auto State waiting
 				;if(game.getPlayer().getItemCount(pitcher) >= 1)
 					;game.getPlayer().removeItem(pitcher)
 					;playAnimationAndWait("Place", "done")
-					ForceThirdPerson()
+					;ForceThirdPerson()
 					Utility.Wait(2.5)
 					bInserted = true
 					myDust.activate(self)
