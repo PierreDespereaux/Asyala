@@ -1,19 +1,16 @@
-Scriptname DES_TimeTravelPast extends activemagiceffect  
+Scriptname DES_TimeTravelPast extends ActiveMagicEffect  
 
-GlobalVariable Property time  Auto
+GlobalVariable Property Time  Auto
 Actor Property Asyala auto
-actor property playerref auto
-sound property effect auto
-int instanceID = effect.play(self)  
+Actor Property PlayerRef auto
+Sound Property Effect auto
 
-Event onEffectStart(Actor akTarget, Actor akCaster)
-
-	if Time.Value == 1
-		effect.play(playerref)
-		Sound.SetInstanceVolume(instandID, 5.0)  
+EVENT onEffectStart(Actor akTarget, Actor akCaster)
+	IF Time.Value == 1
+		int instanceID = Effect.Play(PlayerRef)
+		Sound.SetInstanceVolume(instanceID, 1.0)
 		akCaster.moveTo(akCaster, afZOffset = -2944.0782)
-		Asyala.moveTo(asyala, afZOffset = -2944.0782)
+		Asyala.moveTo(Asyala, afZOffset = -2944.0782)
 		Time.SetValue(0)
-	endif
-		
-endEvent
+	ENDIF
+ENDEVENT
