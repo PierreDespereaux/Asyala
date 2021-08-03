@@ -1,4 +1,4 @@
-Last of the Atmroans\
+Last of the Atmorans\
 The Two Kotts of Kottheim
 
 by Wilmuth Well-Read\
