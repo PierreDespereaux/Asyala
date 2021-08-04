@@ -20,3 +20,5 @@ The following assets are not part of my work, but **are open source and can be f
 - Snow Elf Helmet
 - Snow Elf Level Assets
 - Snow Elf Staff
+
+*Any assets not specifically listed here should be considered part of my work and, therefore, open source.*
