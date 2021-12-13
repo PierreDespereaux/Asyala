@@ -9,7 +9,7 @@ This has resulted in Asya'la not really sure where she is going or who she is, s
 
 -   A new fully voiced follower with a unique backstory that will be unveiled the longer you travel.
 -   Hundreds of lines of conditional dialogue that is aware of the world around her.
--   A Trust system that will have Asya'la slowly learn to trust the Player.
+-   A "Culture" system that will let the Player influence Asya'la to be more Nordic or more Khajiit.
 -   Reactive dialogue options that will remember things that you have done or said.
 -   A unique look with gear from Kottheim.
 -   A friendly goat.
