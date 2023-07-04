@@ -2,19 +2,24 @@
 ;NEXT FRAGMENT INDEX 11
 Scriptname QF_DES_AsyalaIntroQuest_051C8302 Extends Quest Hidden
 
+;BEGIN ALIAS PROPERTY WindhelmGuard01
+;ALIAS PROPERTY TYPE ReferenceAlias
+ReferenceAlias Property Alias_WindhelmGuard01 Auto
+;END ALIAS PROPERTY
+
 ;BEGIN ALIAS PROPERTY Hilda
 ;ALIAS PROPERTY TYPE ReferenceAlias
 ReferenceAlias Property Alias_Hilda Auto
 ;END ALIAS PROPERTY
 
+;BEGIN ALIAS PROPERTY JailDoor
+;ALIAS PROPERTY TYPE ReferenceAlias
+ReferenceAlias Property Alias_JailDoor Auto
+;END ALIAS PROPERTY
+
 ;BEGIN ALIAS PROPERTY Asyala
 ;ALIAS PROPERTY TYPE ReferenceAlias
 ReferenceAlias Property Alias_Asyala Auto
-;END ALIAS PROPERTY
-
-;BEGIN ALIAS PROPERTY WindhelmGuard01
-;ALIAS PROPERTY TYPE ReferenceAlias
-ReferenceAlias Property Alias_WindhelmGuard01 Auto
 ;END ALIAS PROPERTY
 
 ;BEGIN FRAGMENT Fragment_9

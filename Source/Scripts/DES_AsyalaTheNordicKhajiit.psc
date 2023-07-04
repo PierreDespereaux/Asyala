@@ -1,16 +1,5 @@
 Scriptname DES_AsyalaTheNordicKhajiit extends Quest  Conditional
 
-Event OnUpdateGameTime()
-	If Asyala.IsPlayerTeammate()
-		Float fNewValue = Trust.Mod(5.0)
-	EndIf
-	RegisterForSingleUpdateGameTime(24.0)
-EndEvent
-
-Actor Property Asyala  Auto  
-
-GlobalVariable Property Trust  Auto  
-
 int property SkyrimIsCold auto conditional ;Tracks if Asya'la has admitted that Skyrim is colder than Bleakrock, disables line stating that Bleakrock is colder than Skyrim.
 
 int property BleakrockIsCold auto conditional ;Tracks if Asya'la has mentioned that Skyrim isn't as cold as Bleakrock.
