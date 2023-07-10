@@ -2,8 +2,8 @@
 ;NEXT FRAGMENT INDEX 5
 Scriptname TIF_DES_AsyalaIntroQuestBribe Extends TopicInfo Hidden
 
-;BEGIN FRAGMENT Fragment_3
-Function Fragment_3(ObjectReference akSpeakerRef)
+;BEGIN FRAGMENT Fragment_2
+Function Fragment_2(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
 pFDS.Bribe(akSpeaker)
@@ -11,8 +11,8 @@ pFDS.Bribe(akSpeaker)
 EndFunction
 ;END FRAGMENT
 
-;BEGIN FRAGMENT Fragment_4
-Function Fragment_4(ObjectReference akSpeakerRef)
+;BEGIN FRAGMENT Fragment_1
+Function Fragment_1(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
 getowningquest().setstage(25)
